@@ -1,0 +1,47 @@
+h3 {
+   color: blue;
+   text-align: center;
+  }
+
+  #main{
+    background-color: gray;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+  }
+
+  .alerta{
+    color: #72353D ;
+    background-color:#EAD2D5 ;
+    padding: 20px;
+    width: 40%;
+    border-radius: 50px;
+    border: 1px solid black;
+  }
+  /*Cree dos nuevas etiquetas <div> que tengan
+   una altura de 200 píxeles y ocupen el 50% de la página y tengan color azul y rojo.*/
+   
+   .divMundo{
+    font-family: Verdana;
+    font-size: 1.5em;
+   }
+   .azul{
+    height: 200px;
+    background-color: blue;
+    width: 40%;
+    padding: 20px;
+    border-radius: 50px;
+    border: 1px solid; color: black ;
+ 
+    
+   }
+  .rojo{
+    height: 200px;
+    background-color: red;
+    width: 40%;
+    padding: 20px;
+    border-radius: 50px;
+    border: 1px solid; color:black;
+   
+   }
+
